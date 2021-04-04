@@ -4,12 +4,12 @@ Road accidents resulting in fatalities, injuries have evolved as a major issue a
 
 Hence as a Countermove, We have gathered the past data, precisely of 2018 data from the Following Website https://data.gov.in/
 
-#PreProcessing
+# PreProcessing
 
 The data set from the above website was available in chunks. So we had merge the individual chunks into a single main dataset. You can find the merged Dataset in the DataSet Folder. I have shared both the XLS and CSV Format.
 
 For Analysis, the counts of the Accidents are required where in the dataset has got few Strings (NR) which were removed. You can find those steps in the "Road Accident Data Analysis" Jupyter Notebook in Analysis Folder.
 
-#Analysis
+# Analysis
 
 We have used Pie Charts and Bar Graphs for Representing and also for Analysis the data. You can go to Analysis Folder and check the "Road Accident Data Analysis" Jupyter Notebook for the same.
