@@ -6,7 +6,7 @@ Hence as a Countermove, We have gathered the past data, precisely of 2018 data f
 
 # PreProcessing
 
-The data set from the above website was available in chunks. So we had merge the individual chunks into a single main dataset. You can find the merged Dataset in the DataSet Folder. I have shared both the XLS and CSV Format.
+The data set from the above website was available in chunks. So we merged the individual chunks into a single main dataset. You can find the merged Dataset in the DataSet Folder. we have shared both the XLS and CSV Format.
 
 For Analysis, the counts of the Accidents are required where in the dataset has got few Strings (NR) which were removed. You can find those steps in the "Road Accident Data Analysis" Jupyter Notebook in Analysis Folder.
 
