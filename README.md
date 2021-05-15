@@ -26,3 +26,6 @@ We have used Pie Charts and Bar Graphs for Representing and also for Analysis th
 
 # Prediction
 We have opted for AdaBoostClassifier for the prediction of occurence of Road Accidents. You can go to Prediction Folder and check the "Road-Accident Prediction" Jupyter Notebook for the same.
+
+# Heruko Deployment
+We have deployed the app on Heruko. You can find the related details in this repository (https://github.com/deekshacheruku/Road-Accident-Occurrence-App).
